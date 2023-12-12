@@ -1,0 +1,7 @@
+00  CHEOPS       filters/space/cheops.txt
+01  COROT        filters/space/corot.txt
+02  EPOXI        filters/space/epoxi.txt
+03  MOST         filters/space/most.txt
+05  TESS         filters/space/tess.txt
+07  KEPLER       filters/space/kepler.txt
+58  ASTEP400     filters/ground/astep.txt

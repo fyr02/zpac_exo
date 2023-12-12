@@ -1,0 +1,37 @@
+Zelario12's Exoplanetary Albedo Calculator (ZPAC) v3.5.2
+-----------------------------------------------------------
+Documentation on how to use this tool can be found on my
+website:
+
+
+ACKNOWLEDGEMENTS
+-----------------------------------------------------------
+Planetary parameters are taken from the NASA Exoplanet
+Archive, and the sources within.
+
+Filters are taken from the SVO2 filter profile service and
+the sources within.
+
+Sources for the catalog of planetary effective dayside
+temperatures are as follows:
+
+B23 - Bean et al. (2023)     doi:10.1038/s41586-023-05984-y
+C11 - Cowan and Agol (2011)  doi:10.1088/0004-637X/729/1/54
+C18 - Clark et al. (2018)    doi:10.1051/0004-6361/201527071
+C22 - Changeat et al. (2022) doi:10.3847/1538-4365/ac5cc2
+C23 - Coulombe et al. (2023) doi:10.1038/s41586-023-06230-1
+D20 - Dragomir et al. (2020) doi:10.3847/2041-8213/abbc70
+D23 - Deming et al. (2023)   doi:10.3847/1538-3881/acb210
+F22 - Fu et al. (2022)       doi:10.3847/2041-8213/ac4968
+O14 - O'Rourke et al. (2014) doi:10.1088/0004-637X/781/2/109
+P19 - Pass et al. (2019)     doi:10.1093/mnras/stz2226
+S17 - Schwartz et al. (2017) doi:10.3847/1538-4357/aa9567
+T12 - Todorov et al. (2012)  doi:10.1088/0004-637X/746/1/111
+W19 - Wong et al. (2020a)    doi:10.3847/1538-3881/aba2cb
+W20 - Wong et al. (2020b)    doi:10.3847/1538-3881/ababad
+W21 - Wong et al. (2021)     doi:10.3847/1538-3881/ac0c7d
+Z22 - Zieba et al. (2022)    doi:10.1051/0004-6361/202142912
+
+In the specific cases of Kepler-17b and Qatar-2b, T_eff was
+fitted myself using MCMC and data from D23.
+
