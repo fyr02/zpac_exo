@@ -1,7 +1,7 @@
 Zelario12's Exoplanetary Albedo Calculator (ZPAC) v3.5.2
 -----------------------------------------------------------
 Documentation on how to use this tool can be found on my
-website: https://zelario12.weebly.com/zpac-v352
+website: https://zelario12.weebly.com/zpac
 
 
 ACKNOWLEDGEMENTS
