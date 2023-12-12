@@ -1,7 +1,7 @@
 Zelario12's Exoplanetary Albedo Calculator (ZPAC) v3.5.2
 -----------------------------------------------------------
 Documentation on how to use this tool can be found on my
-website:
+website: https://zelario12.weebly.com/zpac-v352
 
 
 ACKNOWLEDGEMENTS
@@ -34,4 +34,3 @@ Z22 - Zieba et al. (2022)    doi:10.1051/0004-6361/202142912
 
 In the specific cases of Kepler-17b and Qatar-2b, T_eff was
 fitted myself using MCMC and data from D23.
-
